@@ -4,22 +4,17 @@
 	<groupId>com.sreenutech</groupId>
 	<artifactId>0001_OrderServiceProvider</artifactId>
 	<packaging>war</packaging>
-<<<<<<< HEAD
+
 	<version>1.2.2-SNAPSHOT</version>
-=======
-	<version>1.999-SNAPSHOT</version>
->>>>>>> refs/remotes/origin/test-branch-13-09-2021
 	<name>0001_OrderServiceProvider Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
 			<groupId>com.sun.jersey</groupId>
 			<artifactId>jersey-server</artifactId>
-<<<<<<< HEAD
+
 			<version>2.9</version>
-=======
-			<version>10.9</version>
->>>>>>> refs/remotes/origin/test-branch-13-09-2021
+
 		</dependency>
 		<dependency>
 			<groupId>com.sun.jersey</groupId>
